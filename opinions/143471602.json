@@ -1,0 +1,709 @@
+[
+    {
+        "opinion_id": "16954479",
+        "author": "l...1",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-12-30 17:42:46",
+        "purchased_at": "2022-12-18 03:01:18",
+        "thumbs_up": "0",
+        "thumbs_down": "2",
+        "content": "Po przesiadce z palita jetstream gtx 1060 6GB który pięknie mi służył jestem pozytywnie zaskoczony po skoku o 2 generacje wyżej :) Powiem krótko karta jest wydajna do gry w FULL HD ponieważ takie ma przeznaczenie wszystko oczywiście w ULTRA np poprzednio Warzone 2.0 na srednich/niskich robił 60-70 klatek teraz spokojnie trzymie 110-120 sparowane z i7 9700kf i 32 GB 3200 CL16. Karta posiada 3 wentylatory które u mnie są nie praktycznie nie słyszalne. Jakość wykonania samej karty to topowy poziom i naprawdę widziałem różne wersje rtx seri 3xxx i jeśli chodzi o wykonanie/cenę/jakość myślę ze wersje TUF Asusa nie mają sobie równych. No i na plus te subtelne ARGB zwłaszcza dla ludzi którzy nie potrzebują np choinki w obudowie to na pewno docenią :) Mam nadzieję ze ta karta podobnie jak poprzedni Palit Jetstream który nigdy mnie nie zawiódł temp/praca i cisza będzie mi służyć długo i bezproblemowo. Ogółem polecam z czystego serca plus ta piękna cena i jakość za kości GDR6X :)",
+        "pros": [
+            "cana/jakość",
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16877436",
+        "author": "Norbert",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-12-14 11:18:23",
+        "purchased_at": "2022-12-08 15:29:06",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Duża i solidnie wykonana. Mimo mocnego śledzia warto rozważyć podstawkę pod kartę. Wentylatorów w iddle nie słychać w stresie szumi znośnie przy temperaturach nie przekraczających 65st. Cewki u mnie nie piszcza. GDDR6X robi robotę. Podświetlenie minimalistyczne.",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16084431",
+        "author": "f...5",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-05-14 04:17:19",
+        "purchased_at": "2022-05-06 18:36:23",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Świetna karta. Cicha, chłodna i wydajna. Temperatury pod obciążeniem nie przekraczają 58 stopni (70 dla Hot Spot), a taktowanie utrzymuje się w zakresie 1950-1965 MHz. Do tego karta fajnie wygląda, ma subtelne podświetlenie RGB i potrzebuje tylko jednej wtyczki zasilania. Na minus fakt, że trochę piszczą cewki pod obciążeniem, ale nie jest źle (nie spotkałem się jeszcze z kartą Nvidii, która by nie piszczała). Wcześniej miałem 3060 Ti od Gigabyte w wersji Gaming OC Pro 3.0 i to był istny dramat (głośna, gorąca i nie trzymała taktowania powyżej 1900 MHz), nawet nie ma co porównywać do TUFa.",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "15894996",
+        "author": "Jacek",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-03-30 22:38:28",
+        "purchased_at": "2022-03-12 19:36:04",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Super graficzka. Lata, śpiewa, tańczy. Jestem happy.",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16064909",
+        "author": "m...o",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-05-10 12:15:39",
+        "purchased_at": "2022-05-05 18:11:47",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Śmiga aż miło i te temperatury 50°C miodzio :) W ustawieniach nvidia panel warto sobie załączyć limit klatek bo w niektórych produkcjach śmiga 180 fps na ultra ustawieniach i żre 180 watów a przy 80 klatkach ograniczenia około 50-80 watów. W programie armoury crate można podpiąć temperaturę karty graficznej do sterowania kolorami naszych podzespołów.",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "17291732",
+        "author": "m...8",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2023-03-20 14:08:59",
+        "purchased_at": "2023-01-04 13:31:04",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Jak na razie karta śmiga ładnie i jest po chłodnej stronie mocy. Praktycznie dzięki nowej pamięci dorównuje rtx 3070. Obsługa i konsultacja ze sklepem bardzo przyjemna i pomocna.  Jednak, nie warto kupować tylko w x-kom'ie i komputroniku.",
+        "pros": [
+            "cana/jakość",
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "17009514",
+        "author": "r...7",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2023-01-12 18:29:10",
+        "purchased_at": "2022-12-13 16:20:45",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Bardzo dobrze wykonana karta, solida metalowa obudowa dobrze rozprowadza ciepło, temperatury przy 1080p są niskie, nic się nie grzeje. Pamięci GDDR6X zbliżają ją bardzo blisko do 3070, w dużo lepszej cenie.",
+        "pros": [
+            "cana/jakość",
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16922727",
+        "author": "p...0",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-12-23 14:29:15",
+        "purchased_at": "2022-12-20 10:03:41",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Karta z półki średnio wyższej,zegary podbiłem o 200 Mhz  od serii i wszystko ładnie chodzi ,temp. niskie u mnie max 67 stopni.\njestem bardziej niz zadowolony ,polecam bez ściemniania z czystym sumieniem.",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16967510",
+        "author": "Piotr",
+        "recommendation": "Nie polecam",
+        "score": "2,5/5",
+        "purchased": null,
+        "published_at": "2023-01-03 12:07:36",
+        "purchased_at": null,
+        "thumbs_up": "9",
+        "thumbs_down": "0",
+        "content": "Karta OK, ale jest jeden duży minus. ASUS przyoszczędził tu na konstrukcji radiatora i zastosował rozwiązanie z innej karty z serii 30xx. Tym samym radiator nie pokrywa całych kości VRAM. Jest to o tyle ważne, że zastosowane w przypadku tego modelu pamięci GDDR6X bardzo się grzeją. Jakie mogą być konsekwencje wadliwego systemu chłodzenia VRAM? To już jest ruletka. Jak ktoś nie będzie mocno wykorzystywał karty to może się okazać, że wszystko będzie działać przez lata, ale może też przyjść taki moment, że po zagraniu w bardzo wymagającą grę pamięci się przegrzeją. Jeśli karta będzie na gwarancji to jest szansa na naprawę, jeśli nie to lipa. Chociaż z tą gwarancją też bym uważał, bo na forach można poczytać, że serwis ASUSa stosuje dziwne praktyki w tego typu naprawach. Np. obniżają zegary, żeby karta tak się nie grzała i tym samym zmniejszają jej wydajność (za którą zapłaciliśmy niemałe pieniądze).\n\nNa zdjęciu widać, że kości pamięci pokryte są termopadami w ~60%. Pozostały obszar koście będzie z czasem rozgrzewał się nawet do ponad 100 stopni.",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": [
+            "cana/jakość"
+        ]
+    },
+    {
+        "opinion_id": "16963973",
+        "author": "Użytkownik Ceneo",
+        "recommendation": "Nie polecam",
+        "score": "1/5",
+        "purchased": null,
+        "published_at": "2023-01-02 16:05:01",
+        "purchased_at": null,
+        "thumbs_up": "10",
+        "thumbs_down": "0",
+        "content": "ASUS wzięli system chodzenia z 3080 i wrzucili na 3060 Ti (GDDR6X), mimo to, że ma inną konstrukcję i ona nie pasuje. Porównajcie sobie rozmieszczenie kostek pamięci: termopad 3060 TI kończy się akurat w tym miejscu gdzie kończy się kostka ramu na 3080 (Pokazałem czerwonymi kreskami). Nic więcej nie dodam. Na podstawie mojej własnej analizy - zdjęcia poniżej. Karta idzie do zwrotu, odradzam zakup tej karty. Jestem mega rozczarowany, zawsze stawiłem, że ASUS to jest topowa jakość...",
+        "pros": [],
+        "cons": []
+    },
+    {
+        "opinion_id": "16943213",
+        "author": "a...9",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-12-28 21:53:27",
+        "purchased_at": "2022-12-16 17:46:13",
+        "thumbs_up": "0",
+        "thumbs_down": "1",
+        "content": "Jak to TUF w serii 3000 świetne wykonanie, kultura pracy genialna i temperatury idealne. Karta ma w miarę fajne możliwości OC po których przebija wydajnością RTX3070. W tej cenie super wybór.",
+        "pros": [],
+        "cons": []
+    },
+    {
+        "opinion_id": "16965329",
+        "author": "p...i",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2023-01-02 21:50:16",
+        "purchased_at": "2022-12-09 11:23:41",
+        "thumbs_up": "0",
+        "thumbs_down": "1",
+        "content": "Całkiem przyzwoita karta graficzna, choć trochę droga jak na ten model GPU. Jednak wydajny układ chłodzenia rekompensuje cenę kulturą pracy i niskimi temperaturami rdzenia.",
+        "pros": [
+            "cana/jakość",
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "15912073",
+        "author": "f...x",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-04-04 09:04:07",
+        "purchased_at": "2022-03-11 19:12:57",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Prosta stylistyka, bardzo wydajne chłodzenie i symboliczne punktowe podświetlenie. Temperatury w stresie nie przekraczają 60C. Warta swojej ceny, polecam! :)",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16950120",
+        "author": "f...3",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-12-29 21:04:37",
+        "purchased_at": "2022-12-19 11:02:10",
+        "thumbs_up": "0",
+        "thumbs_down": "1",
+        "content": "Cudowna karta, kultura pracy tej karciochy jest po prostu nieziemska. Polecam każdemu ten model!!! Teraz mogę grać w Wiedźmina 3 next-gen i Fifę 23 nawet na TV 4k 😊",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16962731",
+        "author": "e...3",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2023-01-02 11:23:55",
+        "purchased_at": "2022-12-28 12:32:32",
+        "thumbs_up": "1",
+        "thumbs_down": "1",
+        "content": "Przy ustawieniu BIOSU w tryb silent, karta pod pełnym obciążeniem jest praktycznie niesłyszalna, a temperatury nie przekraczają 55 stopni.",
+        "pros": [
+            "cana/jakość",
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "15844903",
+        "author": "k...s",
+        "recommendation": "Polecam",
+        "score": "4,5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-03-19 11:42:47",
+        "purchased_at": "2022-03-12 19:36:06",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Karta z porządnym chłodzeniem, cicha, w miarę wydajna, jedyną wadą to jej cena, co jest przypadłością wszystkich kart.",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16911214",
+        "author": "MiŁy_PL",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-12-21 11:01:34",
+        "purchased_at": "2022-12-15 16:46:36",
+        "thumbs_up": "0",
+        "thumbs_down": "1",
+        "content": "Karta bardzo dobra. Przy tych kościach pamięci i tej cenie nie widzę sensu kupować jakikolwiek inny model",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "15926052",
+        "author": "m...o",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-04-06 19:35:19",
+        "purchased_at": "2022-04-01 10:49:40",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Karta spełnia swoje zadanie. Cicha, temperatury w normie przy obicażeniu CB2077 high/ultra",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16930216",
+        "author": "m...8",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-12-26 21:09:15",
+        "purchased_at": "2022-12-14 15:12:18",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Po przesiadce z GTX 1060, to jakby z przesiadka z malucha do porche.",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "17154601",
+        "author": "k...a",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2023-02-16 17:40:52",
+        "purchased_at": "2023-01-16 17:37:02",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Produkt zgodny z opisem szybka realizacja zamówienia",
+        "pros": [
+            "cana/jakość",
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "15932718",
+        "author": "n...1",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-04-07 20:51:00",
+        "purchased_at": "2022-03-28 18:34:48",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Duża, solidna karta z bardzo cichym chłodzeniem.",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16990325",
+        "author": "Kacper",
+        "recommendation": "Polecam",
+        "score": "4/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2023-01-08 21:48:08",
+        "purchased_at": "2022-12-17 21:47:04",
+        "thumbs_up": "0",
+        "thumbs_down": "1",
+        "content": "Produkt jak najbardziej spełnia moje oczekiwania. Polecam",
+        "pros": [
+            "cana/jakość",
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16950695",
+        "author": "j...r",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-12-29 22:20:06",
+        "purchased_at": "2022-12-23 12:26:23",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "karta spokojnie sobie radzi w obecnych grach",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "17010286",
+        "author": "Z...4",
+        "recommendation": "Polecam",
+        "score": "4,5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2023-01-12 20:33:43",
+        "purchased_at": "2023-01-09 20:06:20",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Karta ok, wszystko śmiga. Cicha i wydajna.",
+        "pros": [
+            "cana/jakość",
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16928311",
+        "author": "m...z",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-12-25 18:26:09",
+        "purchased_at": "2022-12-20 10:01:16",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Szybko, sprawnie i bezproblemowo. Polecam",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16005069",
+        "author": "Jakub",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-04-25 14:05:37",
+        "purchased_at": "2022-04-11 03:24:49",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "solidne wykonanie, niskie temperatury",
+        "pros": [
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "15862270",
+        "author": "w...1",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-03-23 20:26:35",
+        "purchased_at": "2022-03-11 17:03:06",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Bardzo dobra karta.. !! Polecam",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "15062031",
+        "author": "m...7",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2021-10-11 18:27:26",
+        "purchased_at": "2021-10-07 10:12:12",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Bardzo cicha karta",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "15178497",
+        "author": "u...o",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2021-11-08 10:01:07",
+        "purchased_at": "2021-11-04 13:05:33",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Odpowiada opisu",
+        "pros": [],
+        "cons": []
+    },
+    {
+        "opinion_id": "16002441",
+        "author": "k...i",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-04-24 19:19:31",
+        "purchased_at": "2022-04-18 22:00:22",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "ok fajna karta",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16987131",
+        "author": "m...5",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2023-01-07 10:50:22",
+        "purchased_at": "2022-12-27 14:13:08",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Swietna karta",
+        "pros": [],
+        "cons": []
+    },
+    {
+        "opinion_id": "17074553",
+        "author": "l...0",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2023-01-28 09:40:42",
+        "purchased_at": "2023-01-10 19:02:42",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Rewelacja",
+        "pros": [],
+        "cons": []
+    },
+    {
+        "opinion_id": "16727684",
+        "author": "m...j",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-11-09 11:29:50",
+        "purchased_at": "2022-11-05 07:40:21",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Polecam",
+        "pros": [],
+        "cons": []
+    },
+    {
+        "opinion_id": "14982321",
+        "author": "d...j",
+        "recommendation": "Polecam",
+        "score": "4,5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2021-09-21 22:24:51",
+        "purchased_at": "2021-09-07 19:02:26",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Super!",
+        "pros": [
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "17111037",
+        "author": "C...m",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2023-02-06 22:38:40",
+        "purchased_at": "2023-01-18 00:16:28",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "😎",
+        "pros": [
+            "cana/jakość",
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "17040642",
+        "author": "b...o",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2023-01-19 22:43:41",
+        "purchased_at": "2023-01-02 23:33:46",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Ok",
+        "pros": [],
+        "cons": []
+    },
+    {
+        "opinion_id": "16989792",
+        "author": "d...4",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2023-01-08 18:10:59",
+        "purchased_at": "2022-12-16 15:12:34",
+        "thumbs_up": "0",
+        "thumbs_down": "0",
+        "content": "Ok",
+        "pros": [
+            "cana/jakość",
+            "głośność pracy",
+            "wydajność",
+            "wygląd"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "14050882",
+        "author": "k...k",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2021-03-03 16:18:46",
+        "purchased_at": "2021-01-22 02:20:20",
+        "thumbs_up": "0",
+        "thumbs_down": "3",
+        "content": "Jest git",
+        "pros": [],
+        "cons": []
+    },
+    {
+        "opinion_id": "17055926",
+        "author": "m...4",
+        "recommendation": "Nie polecam",
+        "score": "1,5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2023-01-24 19:35:51",
+        "purchased_at": "2023-01-02 18:29:42",
+        "thumbs_up": "0",
+        "thumbs_down": "2",
+        "content": "Do Blendera za mało pamięci",
+        "pros": [
+            "głośność pracy",
+            "wygląd"
+        ],
+        "cons": [
+            "cana/jakość",
+            "wydajność"
+        ]
+    },
+    {
+        "opinion_id": "14690251",
+        "author": "Użytkownik Ceneo",
+        "recommendation": "Nie polecam",
+        "score": "0,5/5",
+        "purchased": null,
+        "published_at": "2021-07-07 08:00:15",
+        "purchased_at": null,
+        "thumbs_up": "0",
+        "thumbs_down": "17",
+        "content": "Słabe wykonanie w porównaniu do ceny. Wydajność",
+        "pros": [],
+        "cons": [
+            "cena",
+            "dostępność",
+            "głośność pracy",
+            "karta niedostępna",
+            "lub droższa od złota",
+            "to jest kpina ludzi",
+            "wydajność",
+            "wygląd",
+            "wysokie temperatury"
+        ]
+    }
+]
